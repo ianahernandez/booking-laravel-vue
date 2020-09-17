@@ -3,7 +3,7 @@
 This project is a test for show knoledge about Laravel and Vuejs.
 It uses Laravel 8 and Vue 2.5.17
 
-**Find in this** **[URL](https://chotel.herokuapp.com/)**
+**Find a live DEMO in this** **[URL](https://chotel.herokuapp.com/)**
 
 ### Prerequisites
 - PHP >= 7.3
